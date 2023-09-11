@@ -1,4 +1,5 @@
 # Eye-movement
+### Description
 This exercise uses CSS and Javascript to track cursor movement. The eyes on the page follow your cursor as you move it around.
 ### Installation
 How to view and/or use this project  
