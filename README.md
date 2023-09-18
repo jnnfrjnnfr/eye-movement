@@ -1,4 +1,5 @@
 # Eye-movement
+<img src="twoeyes.png" width="300"/>
 ## Description
 This exercise uses CSS and Javascript to track cursor movement. The eyes on the page follow your cursor as you move it around.
 ## Installation
